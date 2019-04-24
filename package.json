@@ -1,0 +1,25 @@
+{
+  "name": "holidays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatsday/holidays.git"
+  },
+  "keywords": [
+    "holiday"
+  ],
+  "author": "Elf-mousE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatsday/holidays/issues"
+  },
+  "homepage": "https://github.com/whatsday/holidays#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
